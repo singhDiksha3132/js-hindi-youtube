@@ -4,11 +4,10 @@ var accountPassword = "123456789"
 accountCity = "jaipur"
 
 
-
-
 // accountId = 2 // not allowed
 
 console.log ("accountId");
 accountEmail = "dik12@d.com"
-accountPassword = "delhi"
+accountPassword = "121512"
+accountCity = "city"
 console.table([ accountId, accountEmail, accountPassword, accountCity])

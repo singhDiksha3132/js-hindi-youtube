@@ -21,4 +21,4 @@ let isloggedIn = false
 
 
 
-console.log(typeof age);
+console.log(typeof undefined);
